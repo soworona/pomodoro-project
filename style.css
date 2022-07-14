@@ -1,5 +1,5 @@
 body{
-    background-color: #e63946;
+    background-color: lime;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -23,7 +23,7 @@ header{
 }
 
 .timer-container{
-    background-color: rgba(255, 255,255, 0.1);
+    background-color: rgba(255, 255,255, 0.5);
     padding: 15px;
     margin: 20px auto;
     border-radius: 8px;
